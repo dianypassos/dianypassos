@@ -59,6 +59,9 @@
 
 <h2 align="left">Connect with me:</h2>
 
+<a href="https://www.linkedin.com/in/diany-passos/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dianypassos&bg_color=0d1117&color=ECB176&line=ECB176&point=ECB176&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
