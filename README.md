@@ -57,6 +57,8 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+<h2 align="left">Connect with me:</h2>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dianypassos&bg_color=0d1117&color=ECB176&line=ECB176&point=ECB176&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
