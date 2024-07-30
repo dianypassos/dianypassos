@@ -3,6 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ECB176&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diany+Passos!;Aspiring+Full+Stack+Developer;Be+Welcome!+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 <br>
+
+<h2 align="left">About me:</h2>
+
+- Continuous self-taught in programming, constantly seeking to improve
+skills;
+- Finishing Computer Engineering college;
+- I'm from Rio de Janeiro in Brazil;
+- Lover of music, games, cooking, dancing, singing, reading, writing and dogs.
+
+<br>
 <div align="center">  
 <img src="https://streak-stats.demolab.com?user=dianypassos&theme=shadow-brown&hide_border=true" alt="GitHub Streak" />
 </div>
