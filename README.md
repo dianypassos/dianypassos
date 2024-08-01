@@ -78,4 +78,10 @@ skills;
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dianypassos&bg_color=0d1117&color=ECB176&line=ECB176&point=ECB176&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=dianypassos&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ECB176&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
