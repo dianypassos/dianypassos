@@ -13,9 +13,6 @@ skills;
 - Lover of music, games, cooking, dancing, singing, reading, writing and dogs.
 
 <br>
-<div align="center">  
-<img src="https://streak-stats.demolab.com?user=dianypassos&theme=shadow-brown&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dianypassos&show_icons=true&count_private=true&hide_border=true&title_color=ECB176&icon_color=ECB176&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats" alt="dianypassos stats" /> 
